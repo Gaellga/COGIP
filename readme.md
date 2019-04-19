@@ -1,13 +1,13 @@
+# COGIP
 
-## COGIP
+![Capture d'écran de l'application](/assets/img/screenshot.png "Screenshot")
 
-* Site web créé de A à Z par Gaëlle Gaban, Jean Oikonomou, Louise Brunner
+* Application de comptabilité créé de A à Z par Gaëlle Gaban ([GitHub](https://github.com/Gaellga)), Jean Oikonomou ([GitHub](https://github.com/Jean-OIKONOMOU)) et Louise Brunner ([GitHub](https://github.com/lougea))
 * Réalisé en avril 2019 dans le cadre de la formation BeCode  
-* Premier essai de *website avec des bases de données relationnelles- SQL PHP*.
+* Première élaboration d'un site impliquant l'utilisation de bases de données relationnelles avec SQL et PHP.
 
 ## Lien vers les consignes
 https://github.com/becodeorg/BXL-Johnson-3.9/tree/master/Projets/COGIPappp
-
 
 ## Langages utilisés  
 
@@ -20,14 +20,20 @@ https://github.com/becodeorg/BXL-Johnson-3.9/tree/master/Projets/COGIPappp
 * Bootstrap
 
 ## Serveurs :
-* phpmyadmin
-* 000webhost (pour voir notre projet le compte c'est johnsonharris8@gmail.com , le mdp c'est bob99bob
-* La DB est dans /Data sinon pour la voir en temps réel aller sur 000webhost, inscrivez-vous avez mon compte, puis allez dans Website Manager -> Database Manager -> Database Manager -> PhpMyAdmin :)
-* 
+* PHPMyAdmin
+* https://fr.000webhost.com/
+
+## Utilisation de l'outil
+* La DataBase se trouve dans le dossier /Data. Pour la visualiser, il suffit de se rendre sur 000webhost, d'inscrire comme nom d'utilisateur **johnsonharris8@gmail.com** et comme mot de passe **bob99bob**, puis allez dans Website Manager -> Database Manager -> Database Manager -> PhpMyAdmin
+
+## Répartition du travail
+* Gaëlle : toutes les pages concernant les Sociétés (formulaire de création, modification, suppression, affichage et connexion à la base de données)
+* Jean : tout le Front-End, toutes les pages concernant les personnes enregistrées
+* Louise : élaboration de la base de données
 
 ## Credits
 * Merci à l'équipe de COGIP !
 * Les polices proviennent de [Google Fonts](https://fonts.google.com/)   
 * Mention spéciale à la doc Bootstrap, à w3School et à Stack Overflow pour leur aide précieuse dans la réalisation de ce projet
 
-### Vous pouvez accéder au site via la [Github page](https://github.com/Jean-OIKONOMOU/COGIP) ou via [ce lien](https://welovebecode.000webhostapp.com)
+### Vous pouvez accéder au site via [ce lien](https://welovebecode.000webhostapp.com)
