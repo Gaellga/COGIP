@@ -28,7 +28,7 @@ https://github.com/becodeorg/BXL-Johnson-3.9/tree/master/Projets/COGIPappp
 
 ## Répartition du travail
 * Gaëlle : toutes les pages concernant les Sociétés (formulaire de création, modification, suppression, affichage et connexion à la base de données)
-* Jean : tout le Front-End, toutes les pages concernant les personnes enregistrées
+* Jean : tout le Front-End, toutes les pages concernant les Personnes enregistrées (idem)
 * Louise : élaboration de la base de données
 
 ## Credits
