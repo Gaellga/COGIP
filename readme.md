@@ -1,6 +1,6 @@
 # COGIP
 
-![Capture d'écran de l'application](/assets/img/screenshot.png "Screenshot")
+![Capture d'écran de l'application](screenshot.png "Screenshot")
 
 * Application de comptabilité créé de A à Z par Gaëlle Gaban ([GitHub](https://github.com/Gaellga)), Jean Oikonomou ([GitHub](https://github.com/Jean-OIKONOMOU)) et Louise Brunner ([GitHub](https://github.com/lougea))
 * Réalisé en avril 2019 dans le cadre de la formation BeCode  
