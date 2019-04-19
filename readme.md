@@ -32,8 +32,7 @@ https://github.com/becodeorg/BXL-Johnson-3.9/tree/master/Projets/COGIPappp
 * Louise : élaboration de la base de données
 
 ## Credits
-* Merci à l'équipe de COGIP !
+* La COGIP appartient à eux-mêmes. Merci beaucoup pour leur contribution au projet (mention spéciale à Jean-Christian Ranu) !
 * Les polices proviennent de [Google Fonts](https://fonts.google.com/)   
-* Mention spéciale à la doc Bootstrap, à w3School et à Stack Overflow pour leur aide précieuse dans la réalisation de ce projet
 
 ### Vous pouvez accéder au site via [ce lien](https://welovebecode.000webhostapp.com)
